@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation Engine 🍿
 
-This is a movie recommendation engine project developed by **Prateek**.
+This is a movie recommendation engine project developed by **Aditya**.
 
 ## Overview 🌟
 
